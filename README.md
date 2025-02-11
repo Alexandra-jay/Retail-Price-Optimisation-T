@@ -1,6 +1,6 @@
 # Retail Price Analysis and Prediction
 
-Overview
+## Overview
 
 This project analyzes and visualizes retail price data using Python. It explores various aspects of pricing, competitor comparisons, and predictive modeling using a Decision Tree Regressor. The project leverages pandas, plotly, and scikit-learn for data manipulation, visualization, and machine learning.
 
